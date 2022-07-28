@@ -1,0 +1,45 @@
+@media screen and (max-width: 768px) {
+    .logo {
+        width: 100%;
+        text-align: center;
+        float: none;
+    }
+
+    form.form-login {
+        width: 100%;
+        text-align: center;
+        float: none;
+        margin-top: 17px;
+    }
+
+    .form-login .form-element {
+        margin: 10px;
+        display: block;
+    }
+
+    .form-element label {
+        text-align: left;
+        
+    }
+
+    .form-element input[type=email],
+    .form-element input[type=password] {
+        width: 100%;
+        max-width: 450px;
+    }
+
+    .form-element input[type=submit] {
+        width: 100%;
+        max-width: 300px;
+    }
+
+    .img-pessoas {
+        display: none;
+    }
+
+    .abrir-conta {
+        width: 100%;
+    }
+
+
+}
